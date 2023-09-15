@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 class Perfect_Number
 {
     static bool IsPerfectNumber(int num)
